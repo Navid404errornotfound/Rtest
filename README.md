@@ -1,2 +1,1 @@
-https://free.hustonstars.top/sub
-https://raw.githubusercontent.com/hiddify/hiddify-next/main/test.configs/warp#%F0%9F%94%A5%20GhachVPN%20%F0%9F%94%A5
+vmess://eyJhZGQiOiJNaWRhcy5Dby5Db20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IlRVUjAwMS7Zhdin24zYr9izLm5ldCIsImlkIjoiMjM0NGY4YmFlZjEyNDZjMGI0YWJjYjgxZmZmNmRjMjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvP2VkXHUwMDNkMjA0OCIsInBvcnQiOiIyMDg2IiwicHMiOiLwn4e58J+HtyBUVVItMDAxICDwn5S3SGFtcmFo8J+UtyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
