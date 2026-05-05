@@ -1,0 +1,18 @@
+• Arduino Workshop – John Boxall
+
+Step‑by‑step projects that introduce coding + electronics. Perfect for beginners.
+
+• Exploring Arduino (2nd Edition) – Jeremy Blum
+
+More detailed than most Arduino books; teaches best practices, electronics, and C programming.
+
+• Programming the Raspberry Pi – Simon Monk
+
+Great intro to Raspberry Pi GPIO, electronics, Linux, Python.
+
+• Make: AVR Programming – Elliot Williams
+
+If you want to go deeper into microcontrollers beyond Arduino.
+Networkx 
+KNime
+gephi
